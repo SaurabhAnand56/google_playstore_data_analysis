@@ -39,5 +39,5 @@ pip install notebook
 ### Step 3:
 Run the script.
 ```
- path/jupyter notebook
+jupyter notebook
 ```
